@@ -1,0 +1,837 @@
+id,error,error_type,name,time,memory,username
+203, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,u4cse16102
+208, studio.h: No such file or directory #include &lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,u4cse16165
+257, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,u4cse16163
+359, conio.: No such file or directory #include&lt;conio.&gt; ^~~~~~~~ compilation terminated. ,CE,C,0.0,0,pottiabhinay_2001
+360, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,pottiabhinay_2001
+409, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,pottiabhinay_2001
+459, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,Harshavardhini
+460, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,Harshavardhini
+520, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,Skabdulgouse
+692, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+695, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+721, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,Skabdulgouse
+796, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+797, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+798, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+826, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+982, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+983, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,sudarshancode2709
+2350, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17403
+2537, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17410
+2666, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17263
+2778, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17366
+2779, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17366
+3373, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17226
+3385, bits/std++.h: No such file or directory #include&lt;bits/std++.h&gt; ^~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17429
+3420, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17429
+3517, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17226
+4149, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17244
+4693, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17454
+5006, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17153
+5050, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17038
+5056, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17151
+5061, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17151
+5067, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17151
+5267, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17652
+5446, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,rockey_ray
+5649, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17650
+5938, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17006
+6111, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17652
+6185, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17637
+6236, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17021
+6240, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17021
+6723, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17226
+6770, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17015
+6880, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17434
+7465, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17201
+7466, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,U4CSE17201
+7491, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,harish_decoder
+7492, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,harish_decoder
+7493, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,harish_decoder
+7512, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,rockey_ray
+7513, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,rockey_ray
+7514, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,rockey_ray
+11987, bits/stdc++.h: No such file or directory #include&lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cse18322
+12125, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,Adithya345
+12896, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cse18307
+12983, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cse18313
+42228, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ritwik
+42310, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19015
+42624, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19044
+43459, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19046
+43463, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19046
+44775, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19033
+44780, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19033
+44785, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19033
+44802, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19033
+44815, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19033
+44817, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19033
+44821, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19033
+44840, iomanip.h: No such file or directory #include&lt;iomanip.h&gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19036
+44841, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19036
+44856, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19014
+44899, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19017
+45197, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19021
+45579, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,ELC19038
+45882, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19033
+46122, studio.h: No such file or directory #include &lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19018
+46131, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19018
+46206, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4eee19108
+46219, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4EEE19134
+46249, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4EEE19120
+46329, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4EEE19143
+47161, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4EEE19145
+47994, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19213
+47997, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19232
+48122, expected identifier or '(' before '/' token /A program to print hello world ^ CustomInvocationc.c:5:9: fatal studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19248
+48123, std.io: No such file or directory #include&lt;std.io&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19240
+48131, std.io: No such file or directory #include &lt;std.io&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19240
+48153, stdio.: No such file or directory #include&lt;stdio.&gt;h ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19227
+48161, stdio.: No such file or directory #include&lt;stdio.&gt;h ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19227
+48209, stido.h: No such file or directory #include&lt;stido.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19242
+48213, stido.h: No such file or directory #include&lt;stido.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19242
+48282, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19210
+49044, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19204
+49048, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19204
+49152, stdio.H: No such file or directory #include&lt;stdio.H&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,n_radhika
+49574, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19005
+49575, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19030
+49582, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19005
+49603, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19024
+49607, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19004
+49609, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19024
+49624, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19024
+49634, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19007
+49641, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19001
+49679, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19028
+49709, stdio.n: No such file or directory #include&lt;stdio.n&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19017
+49712, missing terminating &gt; character #include&lt;stdio ^ CustomInvocationc.c:1:9: fatal stdio: No such file or directory #include&lt;stdio ^ compilation terminated. ,CI,C,0.0,0,cbenu4che19022
+49718, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19022
+49791, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19009
+49865, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19013
+49927, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19013
+49952, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19013
+49993, stdio.n: No such file or directory #include &lt;stdio.n&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19028
+50184, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19017
+50425, iosteram.h: No such file or directory #include&lt;iosteram.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,mugunth
+50430, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,mugunth
+50431, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,mugunth
+50521, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19029
+50579, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4che19029
+50585, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4che19029
+50617, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4che19029
+50619, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4che19029
+50786," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4che19002
+51021, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,mugunth
+51026, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,Sai_Satvik_A
+51085, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,THEJASWINI
+51090, bool.h: No such file or directory #include&lt;bool.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,Arvind_R07
+51111, strbool.h: No such file or directory #include&lt;strbool.h&gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,bala_murugan_b
+51118, studio.h: No such file or directory #include &lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Akshara_S_Nair
+51130, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,dhanusharavindh
+51230, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,adarsh_selvam
+51264, stdio.: No such file or directory #include &lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,Oviya_h
+51301, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19435
+51451, stdi0.h: No such file or directory #include&lt;stdi0.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19139
+51491, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,Haranath
+51544, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Haranath
+51569, .stdio.h: No such file or directory #include&lt;.stdio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cvrahul666
+51574, missing terminating &gt; character #include&lt;.stdio.h ^ CustomInvocationc.c:1:9: fatal .stdio.h: No such file or directory #include&lt;.stdio.h ^ compilation terminated. ,CI,C,0.0,0,cvrahul666
+51582, .stdio.h: No such file or directory #include&lt;.stdio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cvrahul666
+51845, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,Lavanya
+51847, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,Lavanya
+51867, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cse19437
+52091, stdio: No such file or directory #include &lt;stdio&gt; ^~~~~~~ compilation terminated. ,CE,C,0.0,0,swagath
+52150, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19140
+52173, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19140
+52210, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Cbenu4cse19133
+52223, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19104
+52281, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19104
+52339, iostream.h: No such file or directory # include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19162
+52395, dos.h: No such file or directory #include&lt;dos.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19163
+52429, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19163
+52500, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19031
+52621, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4CSE19059
+52623, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4CSE19059
+52624, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4CSE19059
+52629, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4CSE19059
+52936, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,CB_EN_U4MEE19226
+52953, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,19MEEC21
+52971, studio.h: No such file or directory #include &lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_en_u4mee19217
+52975, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4mee19215
+52980, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_en_u4mee19207
+53007, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,CB_EN_U4MEE19206
+53018, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_enu4mee19242
+53021, missing terminating &gt; character #include &lt;stdio.h . ^ mechcp1c.c:1:10: fatal stdio.h .: No such file or directory #include &lt;stdio.h . ^ compilation terminated. ,CE,C,0.0,0,CB_EN_MEE19219
+53043, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_en_u4mee19239
+53055, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,CB_EN_U4MEE19206
+53061, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,CB_EN_U4MEE19206
+53112, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_en_u4mee19239
+53232, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4mee19215
+53315, stdio.H: No such file or directory #include&lt;stdio.H&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_enu4mee19242
+53350," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CE,C,0.0,0,cb_en_u4mee19209
+53387, missing terminating &gt; character #include &lt;std ^ mechcp3c.c:1:10: fatal std: No such file or directory #include &lt;std ^ compilation terminated. ,CE,C,0.0,0,cbenmee19244
+53593, stido.h: No such file or directory #include&lt;stido.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_enu4mee19252
+53714, stidio.h: No such file or directory #include&lt;stidio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_en_u4mee19209
+53726, stidio.h: No such file or directory #include&lt;stidio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_en_u4mee19209
+53870, studio: No such file or directory #include&lt;studio&gt; ^~~~~~~~ compilation terminated. ,CE,C,0.0,0,Cb_ENU4MEE19225
+54162, sdtio.h: No such file or directory #include&lt;sdtio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,19MEEC21
+54179, sdtio.h: No such file or directory #include&lt;sdtio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,19MEEC21
+54524, stdo.h: No such file or directory #include&lt;stdo.h&gt; ^~~~~~~~ compilation terminated. ,CE,C,0.0,0,CBENU4MEE19237
+55079, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CE,C,0.0,0,cb_en_u4mee19205
+56551, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19132
+56568, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19132
+57029, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19223
+57105, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19026
+57107, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19026
+57108, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19026
+57122, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19223
+57535, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CE,C,0.0,0,CB_EN_U4MEE19220
+57584, missing terminating &gt; character #include &lt;stdio.hs ^ CustomInvocationc.c:1:10: fatal stdio.hs: No such file or directory #include &lt;stdio.hs ^ compilation terminated. ,CI,C,0.0,0,cbenu4cse19135
+57586, missing terminating &gt; character #include &lt;stdio.hs ^ CustomInvocationc.c:1:10: fatal stdio.hs: No such file or directory #include &lt;stdio.hs ^ compilation terminated. ,CI,C,0.0,0,cbenu4cse19135
+57587, missing terminating &gt; character #include &lt;stdio.hs ^ CustomInvocationc.c:1:10: fatal stdio.hs: No such file or directory #include &lt;stdio.hs ^ compilation terminated. ,CI,C,0.0,0,cbenu4cse19135
+57588, missing terminating &gt; character #include &lt;stdio.hs ^ CustomInvocationc.c:1:10: fatal stdio.hs: No such file or directory #include &lt;stdio.hs ^ compilation terminated. ,CI,C,0.0,0,cbenu4cse19135
+57594, missing terminating &gt; character #include &lt;stdio.hs ^ CustomInvocationc.c:1:10: fatal stdio.hs: No such file or directory #include &lt;stdio.hs ^ compilation terminated. ,CI,C,0.0,0,cbenu4cse19135
+57599, missing terminating &gt; character #include&lt;stdio.hs ^ CustomInvocationc.c:1:9: fatal stdio.hs: No such file or directory #include&lt;stdio.hs ^ compilation terminated. ,CI,C,0.0,0,cbenu4cse19135
+57679, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cse19361
+57690, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19004
+57708," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CE,C,0.0,0,cb_en_u4mee19239
+57786, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19213
+57819, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19223
+57869, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19005
+57872, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19005
+57934, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19032
+58033, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19002
+58453, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19028
+58456, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19028
+58810, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cvrahul666
+58821, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cvrahul666
+58857, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,THEJASWINI
+58866, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cvrahul666
+59223, studio.h: No such file or directory #include &lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,veera19421
+59800, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19116
+59890, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19164
+59903, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cse_19102
+59916, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cse_19102
+59982, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19164
+60640, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,chaitanya1326
+60819, stdio.in: No such file or directory #include &lt;stdio.in&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,sathvik7311
+61365, missing terminating &gt; character #include&lt;stdio&lt; ^ CustomInvocationc.c:1:9: fatal stdio&lt;: No such file or directory #include&lt;stdio&lt; ^ compilation terminated. ,CI,C,0.0,0,prash
+61371, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,yoshitha
+61385, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,kedareswar
+61843, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,CB_EN_U4MEE19238
+61959, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19114
+61962, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19114
+61966, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19114
+61968, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19114
+61972, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19114
+62041, Stdio.h: No such file or directory #include &lt;Stdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Shanthan571
+62310, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,rohit
+62514, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,19cse425
+62528, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,Cb_ENU4MEE19225
+62686, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Shanthan571
+62924, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19114
+62935, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19114
+62971, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19229
+63119, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,19MEEC21
+63123, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,CBENU4CSE19017
+63125, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,CBENU4CSE19017
+63130," unknown type name 'vi'; did you mean 'void'? vi trial.c ^~ void CustomInvocationc.c:1:9: expected '=', ',', ';', 'asm' or '__attribute__' before '.' token vi trial.c ^ CustomInvocationc.c:2:10: fatal stdio.h: No such file or directory #include &lt; stdio.h&gt; ^~~~~~~~~~ compilation terminated. ",CI,C,0.0,0,CBENU4CSE19046
+63137," unknown type name 'vi'; did you mean 'void'? vi trial.c ^~ void CustomInvocationc.c:1:9: expected '=', ',', ';', 'asm' or '__attribute__' before '.' token vi trial.c ^ CustomInvocationc.c:2:10: fatal stdio.h: No such file or directory #include &lt; stdio.h&gt; ^~~~~~~~~~ compilation terminated. ",CI,C,0.0,0,CBENU4CSE19046
+63140, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19023
+63166, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19016
+63170, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ezhil_chandrasekar
+63189, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19039
+63224, stdi.h: No such file or directory #include&lt;stdi.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19030
+63233, stdi.h: No such file or directory #include&lt;stdi.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19030
+63283, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19008
+63314," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19043
+63326, sdio.h: No such file or directory #include&lt;sdio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19018
+63331, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19006
+63391," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19013
+63400," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19013
+63401, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19030
+63406, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19030
+63417, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19040
+63532, stdio.h?: No such file or directory #include&lt;stdio.h?&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19006
+63543, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+64044, tdio.h: No such file or directory #include&lt;tdio.h&gt; ^~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19002
+64232, stdio0.h: No such file or directory #include&lt;stdio0.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19008
+64414, stdio.n: No such file or directory #include&lt;stdio.n&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19027
+64509, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19021
+64515, #include&lt;stdio.h: No such file or directory #include&lt;#include&lt;stdio.h&gt; ^~~~~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+64518, #include&lt;stdio.h: No such file or directory #include&lt;#include&lt;stdio.h&gt; ^~~~~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+64521, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19021
+64641, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19010
+64663, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19023
+64672, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19026
+64681, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19026
+64722, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19020
+64735, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19019
+64742, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19019
+64761, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19019
+64774, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19019
+64854, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19050
+64856, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19029
+64859, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19047
+64866, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19040
+64873, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19029
+64876, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19040
+64886, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19040
+64893, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19039
+64919, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19039
+64960, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19039
+65366, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19020
+65661, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19114
+65690, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19047
+65731, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19118
+65763, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cse19157
+65956, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19045
+67533, pof.h: No such file or directory #include&lt;pof.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19020
+67680, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19101
+67711, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+67712, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+67758, stdiio.h: No such file or directory #include &lt;stdiio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Shanthan571
+67898, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ritvikrayuga
+67899, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ritvikrayuga
+68057, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+68058, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+68117, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwin
+68145, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19128
+68147, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19128
+68162, coni.h: No such file or directory #include&lt;coni.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19006
+68164, coni.h: No such file or directory #include&lt;coni.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19006
+68166, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19006
+68311, coni.h: No such file or directory #include&lt;coni.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19054
+68842, stduio.h: No such file or directory #include&lt;stduio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,19062
+69038," studio.h,math.h: No such file or directory #include&lt;studio.h,math.h&gt; ^~~~~~~~~~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cse19042
+69053, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19042
+69434, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19060
+69449, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19027
+69513, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19060
+69596," ""stdio.h"": No such file or directory #include&lt;""stdio.h""&gt; ^~~~~~~~~~~ compilation terminated. ",CI,C,0.0,0,CBENU4ECE19050
+69633, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19118
+69758, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwin
+69759, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwin
+69931, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4mee19132
+70071, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ritvikrayuga
+70073, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ritvikrayuga
+70202, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4ECE19040
+70310, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cce19065
+70732, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19006
+72012, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19020
+72017, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19020
+72028, std.h: No such file or directory #include&lt;std.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19029
+72254, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19051
+72505, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,CBELC19025
+73790, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+74100, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cce19054
+74149, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cse19157
+74151, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cse19157
+74435, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19636
+74437, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19636
+74444, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19636
+74491, stido.h: No such file or directory #include&lt;stido.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cse19431
+74645, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Ravechandr
+74872, stido.h: No such file or directory #include &lt;stido.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,sathvik7311
+74996, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19011
+75409, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19052
+75413, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19052
+75687, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19016
+75689, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19016
+75717, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,19cse467
+75718, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19006
+75751, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,19cse467
+76059, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4aee19034
+76115, stedio.h: No such file or directory #include &lt;stedio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19020
+76961, stidio.h: No such file or directory #include&lt;stidio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19103
+77054, stidio.h: No such file or directory #include&lt;stidio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19164
+77409, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,Cbenu4cse19133
+77461, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+77485, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+77527, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+78039," stuio.h: No such file or directory #include&lt;stuio.h&gt;void main(){printf(""hello"")} ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19039
+78040, stuio.h: No such file or directory #include&lt;stuio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19039
+78041, stuio.h: No such file or directory #include&lt;stuio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19039
+78147, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,19MEEC21
+78988, include.h: No such file or directory #include&lt;include.h&gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19037
+78989, include.h: No such file or directory #include&lt;include.h&gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19037
+79763, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19029
+79764, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19029
+79765, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19029
+79919, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19029
+79920, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19029
+80029, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+80030, stdio.h.h: No such file or directory #include&lt;stdio.h.h&gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+80351, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19030
+80680, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,ezhil_chandrasekar
+80799, missing terminating &gt; character #include &lt;stdio.h. ^ CustomInvocationc.c:1:10: fatal stdio.h.: No such file or directory #include &lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19043
+80808, missing terminating &gt; character #include &lt;stdio.h. ^ CustomInvocationc.c:1:10: fatal stdio.h.: No such file or directory #include &lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19043
+82252, cmath: No such file or directory #include &lt;cmath&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,ritvikrayuga
+82257, cstdio: No such file or directory #include &lt;cstdio&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ritvikrayuga
+83299, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,ELC19038
+83474, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19027
+83476, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19027
+83653, mac.h: No such file or directory #include&lt;mac.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19027
+83919, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19016
+84273, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,19156
+84314, stduio.h: No such file or directory #include&lt;stduio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19004
+84357, stduio.h: No such file or directory #include&lt;stduio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19004
+84394, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Hariharan
+84400, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Hariharan
+84416, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Hariharan
+85064, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19050
+85150, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,19156
+85936, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19060
+86705, cmath: No such file or directory #include&lt;cmath&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,varaprasad_6007
+87736, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19042
+88620, mac.h: No such file or directory #include&lt;mac.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19027
+89521, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19033
+89696, std.h: No such file or directory #include &lt;std.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19029
+89738, std.h: No such file or directory #include &lt;std.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19029
+89808, std.h: No such file or directory #include &lt;std.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19029
+89812, stdio.h.: No such file or directory #include&lt;stdio.h.&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19012
+89854, std.h: No such file or directory #include &lt;std.h&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19029
+90799," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,CBENU4EEE19131
+90800," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,CBENU4EEE19131
+91251, sdio.h: No such file or directory #include&lt;sdio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4aee19051
+91836, stdio.in: No such file or directory #include &lt;stdio.in&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,sathvik7311
+91844, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,19cse467
+92769, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19006
+92811, sydio.h: No such file or directory #include&lt;sydio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19044
+92870, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19015
+92936, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19018
+93131, decltype.h: No such file or directory #include&lt;decltype.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19140
+94134, stdio: No such file or directory #include&lt;stdio&gt;.h ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19028
+95430, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19042
+95633, stdio.d: No such file or directory #include&lt;stdio.d&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19030
+96209," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19026
+96284," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19038
+97148, sydio.h: No such file or directory #include&lt;sydio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19003
+98716, srdio.h: No such file or directory #include&lt;srdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ritwik
+99233, stdioh: No such file or directory #include&lt;stdioh&gt; ^~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cse19202
+99738, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19016
+100462, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cvrahul666
+100569, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19029
+100756, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19024
+100801, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19024
+100803, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19031
+100889, stdi.h: No such file or directory #include&lt;stdi.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19023
+101081, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19024
+101155, missing terminating &gt; character #include&lt;studio.h ^ CustomInvocationc.c:1:9: fatal studio.h: No such file or directory #include&lt;studio.h ^ compilation terminated. ,CI,C,0.0,0,Akhila
+101156, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Akhila
+101505, stdin.h: No such file or directory #include&lt;stdin.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19137
+101506, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19137
+101608, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19104
+101828, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cce19054
+101830, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cce19054
+101982, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cce19007
+102419, missing terminating &gt; character #include&lt;stdio.h) ^ 19cse102aee1c.c:1:9: fatal stdio.h): No such file or directory #include&lt;stdio.h) ^ compilation terminated. ,CE,C,0.0,0,CBENU4CSE_19163
+102658, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,Cbenu4cse19133
+103146, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19009
+103223, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19024
+103224, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19024
+103370, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+103372, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+103383, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+103387, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+103419, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+103422, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19013
+103556, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19154
+103859, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19042
+104089, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19140
+104150, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19022
+104322, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19054
+104394, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19024
+104432, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+104434, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+104435, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+104436, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+104438, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+104496, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+104656, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19002
+104804, stdioh.h: No such file or directory #include &lt;stdioh.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,vaishnavi_kocherla
+105742, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19039
+106712, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19036
+107157, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19023
+107161, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19023
+107350, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19016
+107452, stdio. h : No such file or directory #include &lt; stdio. h &gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19015
+107454, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19015
+108003, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19025
+108036, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19132
+108039, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,DKEM
+108081, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19162
+108141, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,DKEM
+108160, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,DKEM
+108170, cstdio.h: No such file or directory #include&lt;cstdio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19128
+108190, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19120
+108251, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19104
+108278, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4CSE19059
+108312, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,hd04
+108322, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,DKEM
+108324, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,DKEM
+108497, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19117
+108645, studio.h: No such file or directory #include &lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19125
+108929, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19164
+109104, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19132
+109846, stdi.h: No such file or directory #include&lt;stdi.h&gt; ^~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cce19032
+109864, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19026
+109974, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19008
+110235, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19008
+110266, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19057
+110316, coniuo.h: No such file or directory #include&lt;coniuo.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19040
+110324, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19040
+110663, iostream.h: No such file or directory #include&lt;iostream.h&gt;; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19005
+111048, stdio.H: No such file or directory #include&lt;stdio.H&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19008
+111130, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,ELC19045
+111276, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19001
+112660, stduio.h: No such file or directory #include&lt;stduio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19004
+112683, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,abhinavravella
+112738, iostteam.h: No such file or directory #include&lt;iostteam.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,dhanusharavindh
+112739, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,dhanusharavindh
+112742, iostream: No such file or directory #include&lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,dhanusharavindh
+112823, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+112824, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+112825, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+112826, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+112827, studio.h: No such file or directory #include &lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+112829, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+112847, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+112906, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+113144, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19240
+113237, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+113467, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4MEE19211
+113474, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4MEE19211
+113772, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19029
+114103, dtdio.h: No such file or directory #include&lt;dtdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4ece19201
+114334, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,knn
+114335, dir.h: No such file or directory #include &lt;dir.h&gt; ^~~~~~~ compilation terminated. ,CE,C,0.0,0,knn
+114544, stdioh: No such file or directory #include&lt;stdioh&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+114974, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19032
+115459, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19016
+115566, stdioh: No such file or directory #include &lt;stdioh&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19023
+115589, stdioh: No such file or directory #include&lt;stdioh&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19023
+115624, stsdio.h: No such file or directory #include&lt;stsdio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19008
+115768, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19033
+116398, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19010
+116843, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+117092, stlib.h: No such file or directory #include&lt;stlib.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19008
+117095, stlib.h: No such file or directory #include&lt;stlib.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19235
+117109, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+117137, stlib.h: No such file or directory #include&lt;stlib.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19235
+117293, stlib.h: No such file or directory #include&lt;stlib.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19235
+117489, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19039
+117498, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19238
+117720, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+118603, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19033
+118899, stdilb.h: No such file or directory #include&lt;stdilb.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19253
+119039, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+119137, stblib.h: No such file or directory #include&lt;stblib.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19030
+119139, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19014
+119151, stblib.h: No such file or directory #include&lt;stblib.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19030
+119212, d\stdio.h: No such file or directory #include&lt;d\stdio.h&gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19040
+119219, stdiolib.h: No such file or directory #include&lt;stdiolib.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19040
+119253, stcio.h: No such file or directory #include &lt;stcio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19050
+119269, stcio.h: No such file or directory #include &lt;stcio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19050
+119583," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19022
+119851, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+119852, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+119878, strlib.h: No such file or directory #include&lt;strlib.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19030
+120154, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19015
+120471, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19135
+120656, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,ELC19038
+122074, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenmee19244
+122083, missing terminating &gt; character #include&lt;stdio.h) ^ CustomInvocationc.c:1:9: fatal stdio.h): No such file or directory #include&lt;stdio.h) ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19224
+122108, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19206
+122112, stdio.h : No such file or directory #include&lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19206
+122134, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19208
+122141, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_MEE19219
+122142, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19214
+122143, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19204
+122144, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19254
+122145, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19208
+122155, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19249
+122165, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19217
+122173, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19217
+122185, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19201
+122186, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_enu4mee19252
+122188, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19201
+122198, stdio.h : No such file or directory #include &lt;stdio.h &gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19201
+122238, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19224
+122243, stdio.h : No such file or directory #include &lt;stdio.h &gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19224
+122248, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19229
+122264, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4MEE19211
+122268, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19229
+122273, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19212
+122283, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19229
+122296, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19235
+122307, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4MEE19247
+122328, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19236
+122331, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19223
+122335, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19220
+122336, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_enu4mee19242
+122339," unknown type name 'Predict'; did you mean 'restrict'? Predict the output. ^~~~~~~ restrict CustomInvocationc.c:1:13: expected '=', ',', ';', 'asm' or '__attribute__' before 'output' Predict the output. ^~~~~~ CustomInvocationc.c:2:10: fatal stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ",CI,C,0.0,0,CBENU4MEE19234
+122342, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4MEE19246
+122346, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4MEE19234
+122364, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4MEE19223
+122378, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4MEE19237
+122414, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_enu4mee19245
+123180, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19034
+123194, stdiio.h: No such file or directory #include&lt;stdiio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19029
+123206, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19034
+123215, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19034
+123223, stdiio.h: No such file or directory #include&lt;stdiio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19029
+123681, stdoi.h: No such file or directory #include&lt;stdoi.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19052
+124813, stdio.d: No such file or directory #include&lt;stdio.d&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,abhaysabarinath
+125008, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CB_EN_U4CSE19005
+125071, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Gamer14322
+127843, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19022
+127966, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+127967, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+128197, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19029
+128199, stido.h: No such file or directory #include&lt;stido.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19030
+128682, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19017
+128762, string: No such file or directory #include&lt;string&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19012
+128945, sting.h: No such file or directory #include&lt;sting.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19027
+128969, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+128999, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19025
+129653, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+129654, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+129661, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19025
+129846, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19034
+129854, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19034
+129861, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19034
+129873, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19034
+130277, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19023
+130606," string,h: No such file or directory #include&lt;string,h&gt; ^~~~~~~~~~ compilation terminated. ",CE,C,0.0,0,cbenu4cie19020
+130631," string,h: No such file or directory #include&lt;string,h&gt; ^~~~~~~~~~ compilation terminated. ",CE,C,0.0,0,cbenu4cie19020
+130763, string.: No such file or directory #include&lt;string.&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19017
+130770, string.: No such file or directory #include&lt;string.&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19017
+130779, string.: No such file or directory #include&lt;string.&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19017
+130901, st.h: No such file or directory #include&lt;st.h&gt; ^~~~~~ compilation terminated. ,CI,C,0.0,0,cse19106
+130902, st.h: No such file or directory #include&lt;st.h&gt; ^~~~~~ compilation terminated. ,CI,C,0.0,0,cse19106
+130921, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19120
+131023, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cse19142
+131103, sdtio.h: No such file or directory #include&lt;sdtio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19041
+131104, sdtio.h: No such file or directory #include&lt;sdtio.h&gt; ^~~~~~~~~ compilation terminated. ,CE,C,0.0,0,cbenu4cie19041
+131533, Stdio.h: No such file or directory #include&lt;Stdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19053
+133703, stdi0.h: No such file or directory #include&lt;stdi0.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19254
+133780," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19019
+133967, stdio.h.: No such file or directory #include &lt;stdio.h.&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19218
+134333, stdio. h: No such file or directory #include &lt;stdio. h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19052
+134559, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19012
+134629," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19029
+135187, string: No such file or directory #include&lt;string&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19056
+135190, string: No such file or directory #include&lt;string&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19056
+135412, Stdio.h: No such file or directory #include&lt;Stdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19053
+135560, sting.h: No such file or directory #include&lt;sting.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19038
+135930, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,CBELC19025
+136024, sting.h: No such file or directory #include&lt;sting.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19019
+136073, sting.h: No such file or directory #include&lt;sting.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19019
+138383, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19240
+139071, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+139072, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+139073, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+139074, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ashwinsampath
+139078," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,ELC19022
+140214, missing terminating &gt; character #include&lt;stdio.h? ^ CustomInvocationc.c:1:9: fatal stdio.h?: No such file or directory #include&lt;stdio.h? ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19029
+140754, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,Gamer14322
+140763, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,CBENU4CSE19028
+141971, stdio.: No such file or directory #include&lt;stdio.&gt;. ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19030
+142151," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,ELC19044
+142711, type.h: No such file or directory #include&lt;type.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,sjELC19051
+143969, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19005
+143975, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19005
+145065, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19229
+145195, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145196, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145197, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145199, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145200, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145202, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145204, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145211, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145224, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145228, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145229, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145230, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4mee19227
+145894, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19052
+146012, iostream: No such file or directory #include &lt;iostream&gt; // std::cout ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,knn
+146145, ctype.h.h: No such file or directory #include&lt;ctype.h.h&gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19033
+146437, strcmp.h: No such file or directory #include&lt;strcmp.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19004
+147075, missing terminating &gt; character #include&lt;s ^ CustomInvocationc.c:1:9: fatal s: No such file or directory #include&lt;s ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19019
+147372, &lt;math.h: No such file or directory #include&lt;&lt;math.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19023
+147501, Stdio.h: No such file or directory #include&lt;Stdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19004
+148682," static char ""xyz"": No such file or directory #include&lt;static char ""xyz""&gt; ^~~~~~~~~~~~~~~~~~~ compilation terminated. ",CI,C,0.0,0,ELC19036
+149063, string: No such file or directory #include&lt;string&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19036
+149446, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cb_en_u4eee19029
+149902, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19022
+149924," expected identifier or '(' before numeric constant 1 ^ In file included from /usr/include/stdio.h:41:0, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/libio.h:306:3: unknown type name 'size_t' size_t __pad5; ^~~~~~ /usr/include/x86_64-linux-gnu/bits/libio.h:309:67: 'size_t' undeclared here (not in a function); did you mean '__size_t'? char _unused2[15 * sizeof (int) - 4 * sizeof (void *) - sizeof (size_t)]; ^~~~~~ __size_t /usr/include/x86_64-linux-gnu/bits/libio.h:337:62: expected declaration specifiers or '...' before 'size_t' typedef __ssize_t __io_read_fn (void *__cookie, char *__buf, size_t __nbytes); ^~~~~~ /usr/include/x86_64-linux-gnu/bits/libio.h:346:6: expected declaration specifiers or '...' before 'size_t' size_t __n); ^~~~~~ /usr/include/x86_64-linux-gnu/bits/libio.h:467:19: expected '=', ',', ';', 'asm' or '__attribute__' before '_IO_sgetn' extern _IO_size_t _IO_sgetn (_IO_FILE *, void *, _IO_size_t); ^~~~~~~~~ In file included from CustomInvocationc.c:26:0: /usr/include/stdio.h:295:20: expected declaration specifiers or '...' before 'size_t' int __modes, size_t __n) __THROW; ^~~~~~ /usr/include/stdio.h:340:44: expected declaration specifiers or '...' before 'size_t' extern int snprintf (char *__restrict __s, size_t __maxlen, ^~~~~~ /usr/include/stdio.h:344:45: expected declaration specifiers or '...' before 'size_t' extern int vsnprintf (char *__restrict __s, size_t __maxlen, ^~~~~~ /usr/include/stdio.h:646:15: expected '=', ',', ';', 'asm' or '__attribute__' before 'fread' extern size_t fread (void *__restrict __ptr, size_t __size, ^~~~~ /usr/include/stdio.h:652:15: expected '=', ',', ';', 'asm' or '__attribute__' before 'fwrite' extern size_t fwrite (const void *__restrict __ptr, size_t __size, ^~~~~~ In file included from /usr/include/stdio.h:862:0, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/stdio2.h:23:61: expected declaration specifiers or '...' before 'size_t' extern int __sprintf_chk (char *__restrict __s, int __flag, size_t __slen, ^~~~~~ /usr/include/x86_64-linux-gnu/bits/stdio2.h:25:62: expected declaration specifiers or '...' before 'size_t' extern int __vsprintf_chk (char *__restrict __s, int __flag, size_t __slen, ^~~~~~ /usr/include/x86_64-linux-gnu/bits/stdio2.h:52:50: expected declaration specifiers or '...' before 'size_t' extern int __snprintf_chk (char *__restrict __s, size_t __n, int __flag, ^~~~~~ /usr/include/x86_64-linux-gnu/bits/stdio2.h:53:7: expected declaration specifiers or '...' before 'size_t' size_t __slen, const char *__restrict __format, ^~~~~~ /usr/include/x86_64-linux-gnu/bits/stdio2.h:55:51: expected declaration specifiers or '...' before 'size_t' extern int __vsnprintf_chk (char *__restrict __s, size_t __n, int __flag, ^~~~~~ /usr/include/x86_64-linux-gnu/bits/stdio2.h:56:8: expected declaration specifiers or '...' before 'size_t' size_t __slen, const char *__restrict __format, ^~~~~~ In file included from /usr/include/features.h:424:0, from /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:33, from /usr/include/stdio.h:27, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/stdio2.h:61:1: expected declaration specifiers or '...' before 'size_t' __NTH (snprintf (char *__restrict __s, size_t __n, ^ /usr/include/x86_64-linux-gnu/bits/stdio2.h:74:1: expected declaration specifiers or '...' before 'size_t' __NTH (vsnprintf (char *__restrict __s, size_t __n, ^ In file included from /usr/include/stdio.h:862:0, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/stdio2.h:226:39: expected declaration specifiers or '...' before 'size_t' extern char *__gets_chk (char *__str, size_t) __wur; ^~~~~~ /usr/include/x86_64-linux-gnu/bits/stdio2.h:240:49: expected declaration specifiers or '...' before 'size_t' extern char *__fgets_chk (char *__restrict __s, size_t __size, int __n, ^~~~~~ In file included from /usr/include/features.h:424:0, from /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:33, from /usr/include/stdio.h:27, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/stdio2.h:245:14: expected declaration specifiers or '...' before 'size_t' extern char *__REDIRECT (__fgets_chk_warn, ^ In file included from /usr/include/stdio.h:862:0, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/stdio2.h: In function 'fgets': /usr/include/x86_64-linux-gnu/bits/stdio2.h:259:20: expected ')' before '__n' if ((size_t) __n &gt; __bos (__s)) ^~~ /usr/include/x86_64-linux-gnu/bits/stdio2.h: At top level: /usr/include/x86_64-linux-gnu/bits/stdio2.h:265:15: expected '=', ',', ';', 'asm' or '__attribute__' before '__fread_chk' extern size_t __fread_chk (void *__restrict __ptr, size_t __ptrlen, ^~~~~~~~~~~ In file included from /usr/include/features.h:424:0, from /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:33, from /usr/include/stdio.h:27, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/stdio2.h:268:15: expected '=', ',', ';', 'asm' or '__attribute__' before '__fread_alias' extern size_t __REDIRECT (__fread_alias, ^ /usr/include/x86_64-linux-gnu/bits/stdio2.h:272:15: expected '=', ',', ';', 'asm' or '__attribute__' before '__fread_chk_warn' extern size_t __REDIRECT (__fread_chk_warn, ^ In file included from /usr/include/stdio.h:862:0, from CustomInvocationc.c:26: /usr/include/x86_64-linux-gnu/bits/stdio2.h:281:1: expected '=', ',', ';', 'asm' or '__attribute__' before 'fread' fread (void *__restrict __ptr, size_t __size, size_t __n, ^~~~~ CustomInvocationc.c:27:9: fatal conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19022
+150083, stdio.j: No such file or directory #include&lt;stdio.j&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19021
+150126, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19040
+150130, Stdio.h: No such file or directory #include&lt;Stdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19053
+150456, conic.h: No such file or directory #include&lt;conic.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19021
+150644, stdio: No such file or directory #include&lt;stdio&gt;.h ^~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19028
+150830, sting.h: No such file or directory #include&lt;sting.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19027
+150893, String.h: No such file or directory #include&lt;String.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19029
+153180, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19042
+153188, stdio: No such file or directory #include&lt;stdio&gt;.h ^~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19028
+153265, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19042
+153440, strig.h: No such file or directory #include&lt;strig.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19032
+153809, stdio: No such file or directory #include&lt;stdio&gt;.h ^~~~~~~ compilation terminated. ,CI,C,0.0,0,elc19028
+154660, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.0,0,cbenu4cie19004
+155355, bits/stdc++.h: No such file or directory #include &lt;bits/stdc++.h&gt; ^~~~~~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19005
+155362, iostream: No such file or directory #include &lt;iostream&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19044
+155363, climits: No such file or directory #include &lt;climits&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19044
+155589, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19007
+155707," myfun.h: No such file or directory #include ""myfun.h"" ^~~~~~~~~ compilation terminated. ",CI,C,0.0,0,cbenu4cie19042
+155750, istdio.h: No such file or directory #include&lt;istdio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,abhaysabarinath
+155837, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19007
+155838, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19007
+155840, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19007
+155849, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4che19007
+155867, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19054
+156070, sring.h: No such file or directory #include&lt;sring.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19053
+156086, sring.h: No such file or directory #include&lt;sring.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19053
+156244, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,shrivaishnov
+156245, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,shrivaishnov
+156302, sidio.h: No such file or directory #include&lt;sidio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,cbenu4cie19025
+156449, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.0,0,TARUN_KB
+45198, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,AC,C,0.004759371,780,ELC19030
+46207, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.006479105,780,cbenu4eee19111
+46208, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.0070586830000000005,780,CBENU4EEE19114
+46221, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.004880586,780,i_sanjay_o7
+46222, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.005631001,780,cbenu4eee19128
+46223, conio.h: No such file or directory #include &lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.005980916,780,cbenu4eee19132
+48124, std.io: No such file or directory #include&lt;std.io&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.004345598,780,cbenu4ece19209
+48154, stdio.: No such file or directory #include&lt;stdio.&gt;h ^~~~~~~~ compilation terminated. ,CI,C,0.009614505,780,cbenu4ece19247
+48162, stdio.: No such file or directory #include&lt;stdio.&gt;h ^~~~~~~~ compilation terminated. ,CI,C,0.004097844000000001,780,cbenu4ece19237
+48163, stdio.: No such file or directory #include&lt;stdio.&gt;h ^~~~~~~~ compilation terminated. ,CI,C,0.00389037,780,cbenu4ece19241
+48214, stido.h: No such file or directory #include&lt;stido.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.004055141,780,cbenu4ece19246
+49583, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.003844624,780,cbenu4che19002
+49604, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.004036284,780,cbenu4che19029
+49605, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.005953248,780,cbenu4che19011
+49608, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.004141659000000001,780,cbenu4che19001
+49610, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.003819327,780,cbenu4che19018
+49611, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.004430039,780,cbenu4che19026
+49612, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.00430678,780,CBENU4CHE19020
+49613, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.00585614,780,cbenu4che19011
+49625, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.003971165,780,cbenu4che19022
+49635, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.003887308,780,cbenu4che19014
+49636, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0038276770000000002,780,cbenu4che19022
+49637, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.0038194329999999997,780,cbenu4che19011
+49638, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.003541835,780,cbenu4che19022
+49642, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.003561703,780,cbenu4che19010
+49643, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.003867857,780,cbenu4che19011
+51492, iostream.h: No such file or directory #include &lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.003850143,780,u4cse19110
+51846, missing terminating &gt; character #include&lt;stdio.h. ^ CustomInvocationc.c:1:9: fatal stdio.h.: No such file or directory #include&lt;stdio.h. ^ compilation terminated. ,CI,C,0.004520472,780,balanisha
+52282, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.004891171,780,cbenu4cse19104
+52937, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,AC,C,0.005033558,780,cb_en_u4mee19249
+52938, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,WA,C,0.007751503000000001,780,CB_EN_U4MEE19230
+52939, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,WA,C,0.00453184,780,CBENU4MEE19212
+52954, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.005316522,780,CBENU4MEE19234
+52976, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.0074902119999999996,780,19MEEC21
+52977, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.009091802,780,CBENU4MEE19212
+52978, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.005571693000000001,780,CB_EN_U4MEE19201
+52979, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,AC,C,0.005816709000000001,780,cb_en_u4mee19224
+53022, missing terminating &gt; character #include &lt;stdio.h . ^ mechcp1c.c:1:10: fatal stdio.h .: No such file or directory #include &lt;stdio.h . ^ compilation terminated. ,AC,C,0.005271565,780,cb_en_u4mee19227
+53023, missing terminating &gt; character #include &lt;stdio.h . ^ mechcp1c.c:1:10: fatal stdio.h .: No such file or directory #include &lt;stdio.h . ^ compilation terminated. ,WA,C,0.011099137,780,CB_EN_U4MEE19220
+53056, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,AC,C,0.010538033,780,cb_en_u4mee19233
+53113, studio.h: No such file or directory #include&lt;studio.h&gt; ^~~~~~~~~~ compilation terminated. ,WA,C,0.00504151,780,cb_enu4mee19245
+53233, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.005610696,780,CB_EN_U4MEE19204
+53234, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.005438401999999999,780,cb_en_u4mee19239
+54163, sdtio.h: No such file or directory #include&lt;sdtio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.005046747,780,CB_EN_U4MEE19226
+54525, stdo.h: No such file or directory #include&lt;stdo.h&gt; ^~~~~~~~ compilation terminated. ,AC,C,0.006053939,780,cb_en_u4mee19254
+55080, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.00488628,780,cb_en_u4mee19249
+55081, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,WA,C,0.005452008,780,CB_EN_U4MEE19204
+57030, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.004127694,780,CB_EN_U4MEE19223
+57031, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,AC,C,0.004130922,780,CB_EN_U4MEE19223
+57032, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.004182365,780,CBENU4MEE19237
+57033, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.003954502,780,cb_en_u4mee19236
+57106, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,WA,C,0.004027856,780,CB_EN_U4MEE19223
+57595, missing terminating &gt; character #include &lt;stdio.hs ^ CustomInvocationc.c:1:10: fatal stdio.hs: No such file or directory #include &lt;stdio.hs ^ compilation terminated. ,WA,C,0.005030464,780,cb_en_u4mee19239
+57709," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",AC,C,0.004417361,780,cb_en_u4mee19239
+57710," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",AC,C,0.004247618,780,cb_en_u4mee19239
+57711," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",AC,C,0.004923594,780,cb_en_u4mee19239
+57712," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.00430853,780,cbenu4cse19144
+57787, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.004049501,780,cbenu4ece19210
+61960, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,AC,C,0.0060036,780,CB_EN_U4MEE19241
+61961, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,AC,C,0.007519228,780,CB_EN_U4MEE19238
+61963, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0061074,780,CB_EN_U4MEE19206
+61964, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,AC,C,0.005913198000000001,780,CB_EN_U4MEE19238
+61965, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.005039335,780,CB_EN_U4MEE19206
+61967, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.005385488000000001,780,CB_EN_U4MEE19206
+61969, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.005440368,780,CB_EN_U4MEE19206
+61970, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.006775168000000001,780,CB_EN_U4MEE19206
+61971, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,AC,C,0.005518436,780,CB_EN_U4MEE19204
+61973, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.005284989,780,CB_EN_U4MEE19206
+62042, Stdio.h: No such file or directory #include &lt;Stdio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.005452416,780,cbenmee19244
+62925, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.007445642,780,cb_en_u4mee19229
+62926, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.0072589640000000006,780,cb_en_u4mee19229
+63138," unknown type name 'vi'; did you mean 'void'? vi trial.c ^~ void CustomInvocationc.c:1:9: expected '=', ',', ';', 'asm' or '__attribute__' before '.' token vi trial.c ^ CustomInvocationc.c:2:10: fatal stdio.h: No such file or directory #include &lt; stdio.h&gt; ^~~~~~~~~~ compilation terminated. ",CI,C,0.009032725,780,ritwik
+63190, stdio: No such file or directory #include&lt;stdio&gt; ^~~~~~~ compilation terminated. ,CI,C,0.008272396,780,cbenu4cie19036
+63234, stdi.h: No such file or directory #include&lt;stdi.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.007901321,780,cbenu4cie19025
+63315," stdio,h: No such file or directory #include&lt;stdio,h&gt; ^~~~~~~~~ compilation terminated. ",CI,C,0.007820104,780,cbenu4cie19005
+63327, sdio.h: No such file or directory #include&lt;sdio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.008366268,780,cbenu4cie19018
+63418, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.008367101,780,cbenu4cie19036
+63419, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,WA,C,0.009213923,780,cbenu4cie19051
+63420, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,CI,C,0.007408372,780,cbenu4cie19013
+63421, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,AC,C,0.007598511999999999,780,cbenu4cie19042
+63422, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,AC,C,0.008074083000000001,780,cbenu4cie19031
+63533, stdio.h?: No such file or directory #include&lt;stdio.h?&gt; ^~~~~~~~~~ compilation terminated. ,WA,C,0.008251327,780,cbenu4cie19012
+64642, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.010813777,780,cbenu4aee19010
+64894, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.006358234,780,cbenu4aee19050
+68163, coni.h: No such file or directory #include&lt;coni.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.012101583,780,cbenu4cse19101
+68167, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.010091682,780,cbenu4cse19006
+69435, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.006038394,780,cbenu4cse19137
+69597," ""stdio.h"": No such file or directory #include&lt;""stdio.h""&gt; ^~~~~~~~~~~ compilation terminated. ",CI,C,0.008317244,780,19156
+69634, stdio.: No such file or directory #include&lt;stdio.&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.00510661,780,CBENU4ECE19050
+72013, stio.h: No such file or directory #include&lt;stio.h&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.011683983,780,ELC19040
+73791, iostream.h: No such file or directory #include&lt;iostream.h&gt; ^~~~~~~~~~~~ compilation terminated. ,WA,C,0.013407373,780,cbenu4cse19101
+75414, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.013631575,780,cbenu4aee19040
+75690, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,WA,C,0.01744984,780,manoj_achyutha_2002
+75691, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.013500179,780,ELC19058
+76962, stidio.h: No such file or directory #include&lt;stidio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.013037401,780,cbenu4cse19101
+77055, stidio.h: No such file or directory #include&lt;stidio.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.013537912,780,hd04
+98717, srdio.h: No such file or directory #include&lt;srdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.028038333999999998,780,cbenu4cse19265
+98718, srdio.h: No such file or directory #include&lt;srdio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.027864716,780,cbenu4cse19238
+109865, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.023487985,780,cbenu4ece19026
+109866, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.025925748,780,cbenu4ece19026
+109867, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.022017861,780,cbenu4ece19026
+109868, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.022612885,780,cbenu4ece19026
+115460, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.014286541000000002,780,cbenu4cie19006
+115567, stdioh: No such file or directory #include &lt;stdioh&gt; ^~~~~~~~ compilation terminated. ,CI,C,0.012975216999999999,780,cbenu4cie19026
+119138, stblib.h: No such file or directory #include&lt;stblib.h&gt; ^~~~~~~~~~ compilation terminated. ,CI,C,0.21692973899999998,780,elc19041
+119853, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.018061294,780,cbenu4cie19001
+122109, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.036471894,780,cbenmee19244
+122249, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.023624715,780,cb_en_u4mee19224
+122250, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.023678407000000002,780,cb_en_u4mee19217
+122265, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.024912414,780,cb_enu4mee19252
+122269, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.023044994,780,cb_en_u4mee19254
+122270, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.024608558,780,CB_EN_U4MEE19208
+122274, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.39716902,780,cb_enu4mee19245
+122275, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.015090386,780,CB_EN_MEE19219
+122297, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.023928674,780,cb_en_u4mee19249
+122298, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.024940915,780,cb_en_u4mee19202
+122329, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.031627734,780,CB_EN_U4MEE19201
+122330, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.032692477000000005,780,CBENU4MEE19211
+122332, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.044803250999999995,780,CBENU4MEE19234
+122340," unknown type name 'Predict'; did you mean 'restrict'? Predict the output. ^~~~~~~ restrict CustomInvocationc.c:1:13: expected '=', ',', ';', 'asm' or '__attribute__' before 'output' Predict the output. ^~~~~~ CustomInvocationc.c:2:10: fatal stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ",CI,C,0.033394244,780,CB_EN_U4MEE19228
+122341," unknown type name 'Predict'; did you mean 'restrict'? Predict the output. ^~~~~~~ restrict CustomInvocationc.c:1:13: expected '=', ',', ';', 'asm' or '__attribute__' before 'output' Predict the output. ^~~~~~ CustomInvocationc.c:2:10: fatal stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ",CI,C,0.025861747,780,CB_EN_U4MEE19201
+122347, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.030966621,780,cb_en_u4mee19249
+122365, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.030811848,780,CBENU4MEE19247
+122366, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.026344472999999997,780,CB_EN_U4MEE19228
+122367, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.029304544,780,cb_en_u4mee19236
+122368, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.024888862,780,cb_en_u4mee19229
+122369, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.026874115,780,CB_EN_U4MEE19220
+122370, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.025912561,780,cb_en_u4mee19227
+122379, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.037747382999999995,780,CBENU4MEE19247
+122380, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.025000132,780,cb_en_u4mee19212
+122415, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.031080073,780,cb_enu4mee19245
+145895, conio.h: No such file or directory #include&lt;conio.h&gt; ^~~~~~~~~ compilation terminated. ,CI,C,0.0,0,ELC19052
+146046, iostream: No such file or directory #include &lt;iostream&gt; // std::cout ^~~~~~~~~~ compilation terminated. ,CI,C,0.032926145,780,cbenu4cie19028
+146047, iostream: No such file or directory #include &lt;iostream&gt; // std::cout ^~~~~~~~~~ compilation terminated. ,CI,C,0.035331034,780,cbenu4cie19028
+146048, iostream: No such file or directory #include &lt;iostream&gt; // std::cout ^~~~~~~~~~ compilation terminated. ,CI,C,0.026473821,780,cbenu4cie19028
+156450, stdio.h : No such file or directory #include &lt; stdio.h &gt; ^~~~~~~~~~~ compilation terminated. ,CI,C,0.025696281,780,TARUN_KB
